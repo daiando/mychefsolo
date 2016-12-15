@@ -1,0 +1,8 @@
+{
+  "description": "anything ok",
+  "name": "testrole",
+  "json_class": "Chef::Role",
+  "override_attributes":{
+    "fizzkey":"buzzvalue"
+  }
+}
