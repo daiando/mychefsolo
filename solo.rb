@@ -1,2 +1,2 @@
 cookbook_path ["/cookbooks"]
-role_path "/roles"
+roles_path "/roles"
